@@ -1,0 +1,204 @@
+body {background-color: white;
+margin: 0;
+text-align: center;
+font-size: 200%;
+
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5rem;
+  color: #E4AEC5;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.0rem;
+  color: #E4AEC5;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: bolder;
+
+
+}
+
+h3 {
+  color: #F73D93;
+  font-size: 1.5rem;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  text-align: left;
+  margin: 100px auto 50px auto;
+}
+p {
+  border-width: 30px 0 0 0;
+  border-color: #7F8487;
+  text-align: left;
+  text-align: justify;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: #7F8487;
+  margin: auto;
+  font-size: 0.5em;
+  line-height: 2;
+
+}
+hr {
+  border: dotted #E4AEC5 6px;
+  border-bottom: none;
+  border-width: 10px;
+  margin-right: 48%;
+  margin-left: 48%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+
+
+
+
+a {
+
+  color:#E60965;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.25rem;
+  padding: 20px 30px 20px 30px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+
+
+.meteor-image {
+  height: 100px;
+  width: 100px;
+}
+
+
+.bio-paragraph {
+  margin: auto;
+  font-size: 2.0rem;
+}
+.paragraph-last {
+  margin: auto auto 100px auto;
+  font-size: 1.5rem;
+
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+}
+.Abdimg {
+  width: 25%;
+  margin: auto;
+}
+.Programming {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+
+
+}
+.codepic {
+  width: 25%;
+  margin-left: 30px;
+  float:  right;
+}
+.code-pic-paragraph {
+
+  margin-right: 30px;
+
+}
+.programming-pic-paragraph {
+  margin-right: 30px;
+}
+.btn {
+  background: #FFEEEE;
+  background-image: -webkit-linear-gradient(top, #FF6FB5, #FF6FB5);
+  background-image: -moz-linear-gradient(top, #FF6FB5, #FF6FB5);
+  background-image: -ms-linear-gradient(top, #FF6FB5, #FF6FB5);
+  background-image: -o-linear-gradient(top, #FF6FB5, #FF6FB5);
+  background-image: linear-gradient(to bottom, #FF6FB5, #FF6FB5);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: white;
+  font-size: 17px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #E4AEC5;
+  text-decoration: none;
+}
+
+
+
+
+
+.top-container {background-color: #FFEEEE;
+  position: relative;
+  padding-top: 100px;
+  height: 750px;
+
+
+
+}
+ .horizontal-1 {
+   border-top: 5px dotted #11999E;
+
+
+ }
+  .skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto
+ }
+  .bottom-container {
+    background-color: #E4AEC5;
+    padding: 50px 0 20px;
+    display: block;
+    text-align: center;
+
+
+
+
+}
+
+  .copyright {
+ display: block;
+ text-align: center;
+ color: black;
+ padding-top: 20px;
+
+
+
+}
+.contact-me {
+width: 50%;
+margin: 100px auto 100px auto;
+
+
+}
+  .bottomcloud {
+    color: #F73D93;
+    position: relative;
+    text-decoration: none;
+    height: 50px;
+    width: 150px;
+    margin-right: 65%;
+
+  }
+  .mountainimage {
+    display: inline-block;
+    margin: auto;
+    position: relative;
+  }
+.topcloud {
+top: 50px;
+left: 65%;
+height: 50px;
+width: 150px;
+position: absolute;
+}
